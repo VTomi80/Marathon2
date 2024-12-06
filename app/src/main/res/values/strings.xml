@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Marathon</string>
+    <string name="text_hint">type a name here</string>
+    <string name="retry">retry</string>
+</resources>
